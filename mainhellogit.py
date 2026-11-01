@@ -1,3 +1,4 @@
 #приветствие
-print(‘Hello, Git’);
+print(‘Hello, Git! Have a nice day!’);
+ 
 
